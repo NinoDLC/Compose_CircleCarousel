@@ -87,6 +87,7 @@ fun HorizontalPagerContent(modifier: Modifier = Modifier) {
                     pageSpacing: Int
                 ): Int = CARD_SIZE_DP.dp.roundToPx()
             },
+            beyondViewportPageCount = 2,
             snapPosition = SnapPosition.Center,
         ) { page ->
             Card(
