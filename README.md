@@ -23,7 +23,7 @@ Let's not forget the good old "SOH CAH TOA", which means `t = asin(A / B)`. With
 
 https://github.com/user-attachments/assets/1ddb5539-94a4-4547-ba94-af8674de853f
 
-Just add a bit of trickery at the height of the animation speed to switch the "z index" (ordering who "draws on top of another") between the cards and we get the final animation!
+Just add a bit of trickery at the height of the animation speed to switch the "z index" (ordering who "draws on top of another") between the cards and we get the [final animation](#demo)!
 
 # Thanks
 Thank you Adrien F. for the maths help!
